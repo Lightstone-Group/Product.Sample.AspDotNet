@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lightstone.Product.Sample.Api", "Lightstone.Product.Sample.Api\Lightstone.Product.Sample.Api.csproj", "{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Lightstone.Product.Sample.Web", "Lightstone.Product.Sample.Web\Lightstone.Product.Sample.Web.njsproj", "{114D06CE-816C-4098-897B-01CE8F37A725}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114D06CE-816C-4098-897B-01CE8F37A725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114D06CE-816C-4098-897B-01CE8F37A725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114D06CE-816C-4098-897B-01CE8F37A725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114D06CE-816C-4098-897B-01CE8F37A725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
