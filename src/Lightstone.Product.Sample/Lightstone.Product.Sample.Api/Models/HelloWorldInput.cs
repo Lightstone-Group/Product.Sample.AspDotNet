@@ -1,4 +1,4 @@
-﻿namespace Lightstone.Product.Sample.Models
+﻿namespace Lightstone.Product.Sample.Api.Models
 {
     public class HelloWorldInput
     {
