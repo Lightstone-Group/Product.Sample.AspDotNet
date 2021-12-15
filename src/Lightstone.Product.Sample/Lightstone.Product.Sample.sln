@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lightstone.Product.Sample", "Lightstone.Product.Sample\Lightstone.Product.Sample.csproj", "{302E3744-EC59-43F8-91CD-BC512863F154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lightstone.Product.Sample.Api", "Lightstone.Product.Sample.Api\Lightstone.Product.Sample.Api.csproj", "{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{302E3744-EC59-43F8-91CD-BC512863F154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{302E3744-EC59-43F8-91CD-BC512863F154}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{302E3744-EC59-43F8-91CD-BC512863F154}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{302E3744-EC59-43F8-91CD-BC512863F154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1929FA5-A1B3-41B0-A20D-E29C5FF21F41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

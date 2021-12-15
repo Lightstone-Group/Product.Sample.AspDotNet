@@ -1,9 +1,9 @@
-﻿using Lightstone.Product.Sample.Models;
+﻿using Lightstone.Product.Sample.Api.Models;
 using LightstonePlatform.Products.Controllers;
 using LightstonePlatform.Products.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Lightstone.Product.Sample.Controllers
+namespace Lightstone.Product.Sample.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
