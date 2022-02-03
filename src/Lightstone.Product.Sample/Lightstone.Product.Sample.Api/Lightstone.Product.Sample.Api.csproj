@@ -10,5 +10,9 @@
     <PackageReference Include="LightstonePlatform.Products" Version="0.1.5" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
+   
+  <PropertyGroup>
+    <DisableImplicitNamespaceImports>true</DisableImplicitNamespaceImports>
+  </PropertyGroup>   
 
 </Project>
