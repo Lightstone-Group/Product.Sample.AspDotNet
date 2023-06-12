@@ -1,3 +1,0 @@
-# Lightstone.Product.Sample.Web
-
-

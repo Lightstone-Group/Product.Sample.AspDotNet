@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      background: #fafafa;
+    }
+  </style>
+    <link href="https://test.cdn.toolkit.lightstone.co.za/Lightstone.Design/v5/css/lightstone.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <div id="demo"></div>
+  <script src="./scripts/tokenEnrichment.js" ></script>
+  <script type="module">
+    import { html, render } from 'lit';
+    import '../dist/src/hello-world-process.js';
+
+    const header = 'Hello owc World!';
+    render(
+      html`
+        <hello-world-process .header=${header}>
+          some light-dom
+        </hello-world-process>
+      `,
+      document.querySelector('#demo')
+    );
+  </script>
+</body>
+</html>
