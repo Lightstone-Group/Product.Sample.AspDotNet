@@ -10,7 +10,7 @@ namespace Lightstone.Product.Sample.Api.Controllers
     public class HelloWorldController : ProductFlowController<HelloWorldInput>
     {
         const string INPUT_ELEMENT_NAME = "hello-world-input";
-        const string FINAL_ELEMENT_NAME = "hello-world";
+        const string FINAL_ELEMENT_NAME = "hello-world-process";
 
         public async override Task<ActionResult<StartResponse>> Start([FromBody] ProductFlowInstanceStartModel input)
         {
